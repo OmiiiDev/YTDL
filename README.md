@@ -43,6 +43,8 @@ With YTDL, you can effortlessly download entire playlists from Youtube (make sur
 
 We understand the importance of audio and video quality. YTDL lets you download your music in high quality (320k) at 1080p+, ensuring that you enjoy your favorite video with the best sound possible.
 
+### 3. Download Videos
+Yes, of course, YTDL does infact download youtube videos duh!
 
 ## Getting Started
 
